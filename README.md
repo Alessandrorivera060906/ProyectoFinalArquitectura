@@ -37,7 +37,7 @@ Durante todo el funcionamiento:
 | `README.md` | Este manual de usuario |
 | `CodigoFase2/` | Código fuente del sistema (`CodigoFase2.ino`) |
 | `Modelos 3D/` | Modelos `.stl` de las piezas impresas en 3D |
-| `Documentacion/` | Diagrama de bloques de arquitectura y documento del proyecto final en PDF |
+| `Proyecto Final Arquitectura del Computador.pdf` | Documento del proyecto final, con el diagrama de bloques de arquitectura |
 
 ## 3. Componentes
 
